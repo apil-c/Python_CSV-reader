@@ -1,0 +1,6 @@
+EmpID,Name,Department,BaseSalary,Bonus,Tax,NetPay
+E001,Apil Chaulagain,Comp Sci,85000,12000,9700,87300
+E002,Samrachana Kafle,Info Tech,62000,7500,6950,62550
+E003,Bina Khatri,Soft Eng,70000,9000,7900,71100
+E004,Nischal Shrestha,Data Sci,75000,10500,8200,77300
+E005,Ganesh Shrestha,Comp Sci,68000,8000,7600,68400
